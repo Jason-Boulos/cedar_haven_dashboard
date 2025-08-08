@@ -1,5 +1,5 @@
 🏨 The Cedar Haven — Luxury Hotel Dashboard & Branding Suite
-Live Demo
+[Live Demo](https://the-cedar-haven.vercel.app)
 
 The Cedar Haven is a feature-rich hotel management dashboard built with React and Supabase, tailored for a luxury resort nestled among the ancient Cedars of Lebanon. It seamlessly blends operational efficiency with immersive brand storytelling, combining powerful analytics, dynamic UI architecture, and elegant design systems.
 
