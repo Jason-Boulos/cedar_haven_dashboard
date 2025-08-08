@@ -1,7 +1,10 @@
 import styled from "styled-components";
 import Logo from "./Logo";
 import MainNav from "./MainNav";
+<<<<<<< HEAD
 
+=======
+>>>>>>> ad89e6f (images)
 
 const StyledSidebar = styled.aside`
   background: linear-gradient(
@@ -57,9 +60,13 @@ function Sidebar() {
       <SidebarContent>
         <Logo />
         <MainNav />
+<<<<<<< HEAD
         <SidebarFooter>
          
         </SidebarFooter>
+=======
+        <SidebarFooter></SidebarFooter>
+>>>>>>> ad89e6f (images)
       </SidebarContent>
     </StyledSidebar>
   );
