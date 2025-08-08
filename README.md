@@ -41,9 +41,9 @@ Built with compound components, context providers, and a themeable design system
 | React Router        | Supabase SQL | CSS Variables          | Supabase Tables |
 | Chart.js / Recharts |              | Responsive Grid Layout |                 |
 
-
  📁 Project Structure
- 
+
+```plaintext
 public/           # Static assets (favicon, manifest, SEO images)
 src/
   analytics/      # Revenue charts, booking trends, top customer logic
@@ -55,6 +55,8 @@ src/
   services/       # Supabase queries, mutations, and API calls
   shared/ui/      # Core UI primitives (Table, Grid, Input, Card)
   styles/         # Global styles, CSS variables, dark/light theme
+```
+
 
 
 🔁 Reusability Highlight: Smart Table Component
